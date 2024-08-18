@@ -1,5 +1,4 @@
 # Space-Invaders-8080-Emulator-Mac-App
-Made following the 8080 tutorial from Emulator101.com
 
 ---Make sure to add coins and press start to begin playing!---
 
