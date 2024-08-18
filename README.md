@@ -12,5 +12,5 @@ C: Insert coins
 
 Enter: Start game once coins are inserted
 
-
-
+Here is a short video showcasing it:
+https://youtu.be/2DM2j7QYyKo?si=jy0-U18j9CCjBZdE
